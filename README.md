@@ -13,16 +13,16 @@ The meticulously designed database serves as a comprehensive resource for the fi
 
 ### SQL queries answer the following questions: 
 
-    •	Which patrons are currently borrowing books, and what are the titles of the borrowed books?
-    •	Which books have been borrowed the most, and how many times have they been borrowed?
-    •	Which books have the highest number of reservations?
-    •	How many patrons have borrowed more than one book at the same time?
-    •	Which patrons have overdue books, what are the book titles, and when were they due?
-    •	What is the total amount of money owed to the library by all patrons?
-    •	Which patrons have outstanding account balances, and how can they be contacted? 
-    •	Who is the author with the highest number of books in the library?
-    •	What is the average duration, in days, of book borrowing?
-    •	Which patron has checked out the highest number of books in the library's history? 
-    •	Which day of the week sees the highest number of book borrowings? 
+- Which patrons are currently borrowing books, and what are the titles of the borrowed books?
+- Which books have been borrowed the most, and how many times have they been borrowed?
+- Which books have the highest number of reservations?
+- How many patrons have borrowed more than one book at the same time?
+- Which patrons have overdue books, what are the book titles, and when were they due?
+- What is the total amount of money owed to the library by all patrons?
+- Which patrons have outstanding account balances, and how can they be contacted?
+- Who is the author with the highest number of books in the library?
+- What is the average duration, in days, of book borrowing?
+- Which patron has checked out the highest number of books in the library's history?
+- Which day of the week sees the highest number of book borrowings? 
 
 
