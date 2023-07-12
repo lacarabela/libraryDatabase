@@ -1,6 +1,5 @@
-<p align="center">
 # LibraryDatabase
-</p>
+
 
 An interactive PostgreSQL database was created as a robust information repository for a fictional library. The database was constructed using a diverse collection of book data obtained from a random GoodReads user's CSV file, ensuring that it accurately represents a wide range of literary works. To enhance its functionality and showcase versatility, fictitious Patreon information was generated and seamlessly integrated into the database.
 
