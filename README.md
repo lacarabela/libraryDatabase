@@ -4,14 +4,14 @@ An interactive PostgreSQL database was created as a robust information repositor
 
 The meticulously designed database serves as a comprehensive resource for the fictional library, enabling efficient storage and retrieval of book-related information. Leveraging the power of PostgreSQL, a series of thoughtfully crafted queries were executed to analyze and address key questions concerning various aspects of the library's operations. These queries delve into the library's collection, user interactions, and other pertinent factors, shedding light on valuable insights for effective library management.
 
-The database schema contains the following tables:
+### The database schema contains the following tables:
 
-    •	BOOKS: isbn_ID, title, author, publication_date, language, number_of_copies 
-    •	PATRONS: patron_ID, first_name, last_name, address, phone_number, email_address, library_card_number, account_balance
-    •	BOOK_BORROWING: borrowing_ID, patron_ID, isbn_ID, borrow_date, due_date, return_date
-    •	BOOK_RESERVATION: reservation_ID, patron_ID, isbn_ID, reservation_date, expiration_date
+- BOOKS: isbn_ID, title, author, publication_date, language, number_of_copies 
+- PATRONS: patron_ID, first_name, last_name, address, phone_number, email_address, library_card_number, account_balance
+- BOOK_BORROWING: borrowing_ID, patron_ID, isbn_ID, borrow_date, due_date, return_date
+- BOOK_RESERVATION: reservation_ID, patron_ID, isbn_ID, reservation_date, expiration_date
 
-SQL queries answer the following questions: 
+### SQL queries answer the following questions: 
 
     •	Which patrons are currently borrowing books, and what are the titles of the borrowed books?
     •	Which books have been borrowed the most, and how many times have they been borrowed?
